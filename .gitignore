@@ -1,5 +1,6 @@
 # Ignorando a pasta envBootcampDE (Ambiente virtual)
 /env
+/__pycache__
 
-
-deteccao-de-gestos-com-automacao-DIO copy.py
+# Arquivos de teste
+test.py
